@@ -7,7 +7,7 @@
 
 ## 🧠 Main Projects
 ### 🔥 AlphaStorm
-- AIトレードシステム（BUY/SELL/SKIP）
+- AIトレードシステム
 - XGBoost / PyTorch / MT5連携
 - Execution Intelligence / Risk Engine搭載
 
